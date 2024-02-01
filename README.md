@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilkis-a-dalia" alt="bilkis-a-dalia" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/Bilkis-A-Dalia/Bilkis-A-Dalia/blob/main/gitprofile.gif">
-- 🔭 I’m currently working on [FlavorFusion-Delights]([https://flavorfusion-delights.onrender.com])
+- 🔭 I’m currently working on [FlavorFusion-Delights](https://flavorfusion-delights.onrender.com)
 
 - 🌱 I’m currently learning **Django Framework**
 
