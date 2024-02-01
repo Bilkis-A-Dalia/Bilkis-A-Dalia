@@ -1,4 +1,4 @@
-![logo](https://github.com/Bilkis-A-Dalia/Bilkis-A-Dalia/blob/main/Banner.jpeg)
+![logo](https://github.com/Bilkis-A-Dalia/Bilkis-A-Dalia/blob/main/Banner2.jpg)
 <h1 align="center">Hi 👋, I'm Bilkis Akter Dalia</h1>
 <h3 align="center">A passionate software Engineer,problem solver and good learner from Bangladesh</h3>
 
